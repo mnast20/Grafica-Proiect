@@ -1,0 +1,13 @@
+﻿C:\Users\mnast\OneDrive\Documents\Grafica\DeTrimis\t$m$p$$$\Proiect_Grafica_2022_Nastase_Maria.max
+C:\Users\mnast\OneDrive\Documents\Grafica\DeTrimis\t$m$p$$$\MAXFILES.TXT
+C:\Users\mnast\Downloads\brown_photostudio_04_4k.exr
+C:\Users\mnast\Downloads\MicrosoftTeams-image.png
+C:\Users\mnast\OneDrive\Documents\Grafica\Proiect\Proiect_Grafica\Texturi\Low_Poly_Banca_1_BaseColor.tga
+C:\Users\mnast\OneDrive\Documents\Grafica\Proiect\Proiect_Grafica\Texturi\Low_Poly_Banca_1_Roughness.tga
+C:\Users\mnast\OneDrive\Documents\Grafica\Proiect\Proiect_Grafica\Texturi\Low_Poly_Banca_1_Normal.tga
+C:\Users\mnast\OneDrive\Documents\Grafica\Proiect\Proiect_Grafica\Texturi\Low_Poly_Banca_2_BaseColor.tga
+C:\Users\mnast\OneDrive\Documents\Grafica\Proiect\Proiect_Grafica\Texturi\Low_Poly_Banca_2_Normal.tga
+C:\Users\mnast\OneDrive\Documents\Grafica\Proiect\Proiect_Grafica\Texturi\Low_Poly_Banca_2_Roughness.tga
+C:\Users\mnast\OneDrive\Documents\Grafica\Proiect\Proiect_Grafica\Texturi\Low_Poly_Masa_BaseColor.tga
+C:\Users\mnast\OneDrive\Documents\Grafica\Proiect\Proiect_Grafica\Texturi\Low_Poly_Masa_Normal.tga
+C:\Users\mnast\OneDrive\Documents\Grafica\Proiect\Proiect_Grafica\Texturi\Low_Poly_Masa_Roughness.tga
